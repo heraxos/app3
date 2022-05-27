@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    background-color: #DDA0DD;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    display: flex;
+    background-color: #bbffc3;
+    width: 310px;
+    height: 610px;
+    justify-content: center;
+    align-items: center;
+}
+#Myform{
+    background-color: #90EE90;
+    width: 300px;
+    height: 600px;
+    margin:5px
+}
